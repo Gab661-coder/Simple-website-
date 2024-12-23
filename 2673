@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<html lang="eng">
+<head>
+  <title>FAITH BEAUTY A-Z</title>
+</head>
+<body style="background-color:tomato">
+  <meta charset="UTF-8">
+  <meta name="discription" content=We make hair and sell air product>
+  <meta name="author" content="SESAN OLALEKAN GABRIEL">
+  <meta name="viewpoint" content="width=device-width, initial-scale=6.0">
+  <meta http-equiv="refresh" content="5">
+  <header style="background-color:tomato">
+    <h1 style="colour:red">WELCOME TO FAITH BEAUTY A-Z</h1>
+  <hr/><hr/>
+  <a href="">Home</a>
+  <a href="">About us</a>
+  <a href="">Products</a>
+  <a href="">Contact us</a>
+  </header>
+  
+  <p style="color:yellow; background:tomato;"><i><b>WHAT WE OFFER YOU IN OUR WEBPAGE</b></i></p>
+  <hr/>
+  <li style="background-color:tomato">We ensure safety for your hair</li>
+  <li style="background-color:tomato">we have different kind of stylist</li>
+    <li style="background-color:tomato">we make use of quality equipment for your hair</li>
+  <img src="///storage/emulated/0/download/images.jpeg" border="3"></br>
+  <img src="///storage/emulated/0/download/download.jpeg" border="3"></br>
+  <a href="http://google.com">SEE MORE</a>
+  <h1 style="color:tomato; background-color:skyblue">OUR WORKING DAYS</h1>
+<table border="4" width="10">
+  <tr bgcolor="skyblue">
+    <th width="100">SUNDAY</th>
+    <th width="100">MONDAY</th>
+    <th width="100">TUESDAY</th>
+    <th width="100">WEDNESDAY</th>
+    <th width="100">THURSDAY</th>
+    <th width="100">FRIDAY</th>
+    <th width="100">SATURDAY</th>
+  </tr>
+  <tr bgcolor="lightgrey">
+    <td>closed</td>
+    <td>open</td>
+    <td>open</td>
+    <td>open</td>
+    <td>open</td>
+    <td>open</td>
+    <td>close</td>
+  </tr>
+</table>
+  <iframe src="https://www.bing.com"></iframe></br>
+  <a href="https//www.google.com"> 
+    <button style="background-color:tomato">CLICK ME FOR MORE DETAILS</button>
+    <div> </br> </div>
+    <button style="background-color:red">SIGN UP</button>
+    <div> </br> </div>
+    <form style="background-color:skyblue">
+      <label>First name</label>
+      <input type="text"></br>
+     <div>
+        </br>
+      </div>
+      <label>Second name</label>
+      <input type="text"></br>
+      <div>
+        </br>
+      </div>
+      <label>Phone number</label>
+      <input type="text"><br>
+      </br>
+      <label>Email adress</label>
+      <input type="text">
+    <div>
+      </br>
+    </div>
+      <input type="reset">
+      <div>
+      </br>
+      </div>
+      <input type="submit">
+      <div>
+        </br>
+      </div>
+    </form>
+  </a>
+  <footer>
+    <hr>
+    Author:SESAN OLALEKAN GABRIEL</br>
+     &copy:copyright reserved<br>
+    < href=mailto:gabrielsesan360@gmail.com>
+  </footer>
+</body>
+</html>
+  
